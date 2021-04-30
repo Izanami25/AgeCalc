@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ageInMinutesApp</string>
+    <string name="Calc_age">Calculate your age</string>
+</resources>
